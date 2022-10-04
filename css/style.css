@@ -1,0 +1,11 @@
+footer{
+    background-color: orange;
+    display: flex;
+    color:white;
+    width: 80%;
+    margin-bottom: 0;
+    margin-bottom: 0;
+    margin-left:10%;
+    justify-content: center;
+    align-items: center;
+}
